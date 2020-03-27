@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168898545189",
+    "firebase_url": "https://instaclon-564fd.firebaseio.com",
+    "project_id": "instaclon-564fd",
+    "storage_bucket": "instaclon-564fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168898545189:android:91ae90dc19cb022169e1cc",
+        "android_client_info": {
+          "package_name": "com.melih.instaklon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168898545189-d076j9i2ahgd2c0ibpc59s606ouabf2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTxwC_z71c7MZnYQemgvI5Z1t9Dmd_28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168898545189-d076j9i2ahgd2c0ibpc59s606ouabf2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
